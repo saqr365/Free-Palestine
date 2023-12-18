@@ -364,10 +364,18 @@ h3{
 
 }
 
-
-
 @media (min-width:1200px) and (max-width:1600px){
     .img1{
         display: none;
+    }
+}
+
+@media (max-width:350px){
+    .d2{
+        height: auto;
+    }
+
+    .d14 p{
+        font-size: 15px;
     }
 }
