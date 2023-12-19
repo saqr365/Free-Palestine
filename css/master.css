@@ -370,7 +370,7 @@ h3{
     }
 }
 
-@media (max-width:350px){
+@media (max-width:360px){
     .d2{
         height: auto;
     }
