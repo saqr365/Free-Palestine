@@ -371,6 +371,10 @@ h3{
 }
 
 @media (max-width:360px){
+    .logo img{
+        width: 250px;    
+    }
+    
     .d2{
         height: auto;
     }
