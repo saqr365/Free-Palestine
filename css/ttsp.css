@@ -130,3 +130,14 @@ header{
     }
 
 }
+
+
+@media (max-width:350px){    
+    .logo img{
+        width: 250px;
+    }
+
+    .d14 p{
+        font-size: 15px;
+    }
+}
